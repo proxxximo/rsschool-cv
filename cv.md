@@ -58,3 +58,24 @@ function CodelandUsernameValidation(str) {
 ```
 
 ---
+
+## Education
+
+### Courses:
+
+- **Elbrus Bootcamp** (Phase0)
+- **Udemy**
+  - [JavaScript/React](https://www.udemy.com/share/10208o3@beTXiz_iQTxrBEl40qNaFokHAdXncChtpK-v2gnPwn9xFelwPYHu4lblEO6rgxN3og==/)
+- **Stepik**
+  - [HTML/CSS](https://stepik.org/course/38218/syllabus?auth=login)
+- **FreeCodeCamp**
+
+  - [HTML/CSS/JS](https://www.freecodecamp.org/proxxximo)
+
+  ***
+
+## Languages
+
+**Rus** (Native)
+
+**Eng** (A2-B1)
